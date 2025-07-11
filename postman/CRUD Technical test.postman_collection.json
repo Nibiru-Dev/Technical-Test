@@ -167,7 +167,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"id\": 2,\n  \"email\": \"usuario2@usuario.com\",\n  \"name\": \"usuario2\",\n  \"password\": \"1234\",\n  \"addresses\": [\n    {\n      \"id\": 1,\n      \"name\": \"Work Address\",\n      \"street\": \"Street No. 2\",\n      \"countryCode\": \"UK\"\n    }\n  ]\n}",
+					"raw": "{\n  \"id\": 2,\n  \"email\": \"usuario2@usuario.com\",\n  \"name\": \"usuario2\",\n  \"password\": \"1234\",\n  \"addresses\": [\n    {\n      \"id\": 1,\n      \"name\": \"Work Address\",\n      \"street\": \"Street No. 2\",\n      \"countryCode\": \"UK\"\n    },\n    {\n      \"id\": 2,\n      \"name\": \"Vacation Address\",\n      \"street\": \"Street No. 10\",\n      \"countryCode\": \"MX\"\n    }\n  ]\n}",
 					"options": {
 						"raw": {
 							"language": "json"
